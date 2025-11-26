@@ -2,7 +2,7 @@ Sales-Data-Analysis-Dashboard
 
 Power BI • Excel • Data Cleaning • Data Visualization
 
-This project presents a comprehensive Sales Data Analysis Dashboard built using Power BI.
+This project presents a comprehensive Sales-Data-Analysis-Dashboard built using Power BI.
 It helps businesses monitor performance metrics, identify top-selling products, analyse revenue trends, and understand regional performance.
 
 Project Overview
