@@ -1,4 +1,4 @@
-Sales Data Analysis Dashboard
+Sales-Data-Analysis-Dashboard
 
 Power BI • Excel • Data Cleaning • Data Visualization
 
